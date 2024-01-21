@@ -1,0 +1,10 @@
+.vscode
+impl
+out
+obj_dir
+*.vcd
+article
+tools/js/node_modules
+tools/js/*.png
+tools/js/*.jpg
+tools/js/*.jpeg

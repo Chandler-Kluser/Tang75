@@ -1,0 +1,3 @@
+read_verilog src/pxmat_tn9k.v
+proc_arst -global_arst rst
+synth_gowin -top pxmat_tn9k  -json out/pxmat_tn9k.json

@@ -1,0 +1,7 @@
+.vscode
+impl
+docs
+out
+obj_dir
+*.vcd
+article
